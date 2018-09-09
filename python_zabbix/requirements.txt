@@ -1,0 +1,8 @@
+--index https://pypi.douban.com/simple/
+SQLAlchemy
+pypinyin
+openpyxl
+beautifulsoup4
+lxml
+pyquery
+psutil
