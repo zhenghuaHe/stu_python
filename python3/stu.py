@@ -18,12 +18,28 @@
 
 #根据域名反解析ip
 
-from dns import resolver
+# from dns import resolver
+#
+# a = 1
+# domain = input("Please input an domain:")
+# A = resolver.query(domain, "A")
+# for i in A.response.answer:
+#     for j in i.items:
+#         print(j.address)
 
-a = 1
-domain = input("Please input an domain:")
-A = resolver.query(domain, "A")
-for i in A.response.answer:
-    for j in i.items:
-        print(j.address)
+
+import difflib
+
+text1 = " welcome to beijing"
+text2 = " weLcome to beijingg"
+
+d = difflib.HtmlDiff()
+diff = d.make_file(text1, text2)
+# print('\n'.join(list(diff)))
+print(list(diff))
+
+
+
+
+
 
