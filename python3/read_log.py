@@ -1,9 +1,9 @@
 #!/usr/bin/pathon3
 # -*- coding: UTF-8 -*-
-import os
+#实时读取日志，发现有返回码为404/502/500就发邮件通知
 import json
 
-from email import encoders
+
 from email.header import Header
 from email.mime.text import MIMEText
 from email.utils import parseaddr, formataddr
