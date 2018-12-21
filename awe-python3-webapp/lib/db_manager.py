@@ -7,13 +7,15 @@ import aiomysql
 import logging
 logging.basicConfig(level=logging.INFO)
 
-from lib.config
+from lib.config import config_read
+
 
 
 
 def log(sql,args=()):
     logging.info('SQL:%s' %sql)
 
+config_read
 
 async def create_pool(loop, **kw):
     logging.info('create database connection pool...')
