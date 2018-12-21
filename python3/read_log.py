@@ -1,4 +1,4 @@
-#!/usr/bin/pathon3
+#!/usr/bin/python3.7
 # -*- coding: UTF-8 -*-
 #实时读取日志，发现有返回码为404/502/500就发邮件通知
 import json
