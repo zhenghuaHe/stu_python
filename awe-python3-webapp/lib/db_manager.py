@@ -7,15 +7,13 @@ import aiomysql
 import logging
 logging.basicConfig(level=logging.INFO)
 
-from lib.config import config_read
-
-
-
+from config import config_read
 
 def log(sql,args=()):
     logging.info('SQL:%s' %sql)
 
 config_read
+
 
 async def create_pool(loop, **kw):
     logging.info('create database connection pool...')
@@ -88,5 +86,5 @@ class User(Base):
     id = Column(String(20), primary_key= True)
     name = Column(String(30))
 
-# engine = create_engine('mysql+mysqlconnector://db_user:db_passwd@db_host:db_port/db_name')
-# DBsession = sessionmaker(bind=engine)
+engine = create_engine('mysql+mysqlconnector://db_user:db_passwd@db_host:db_port/db_name')
+DBsession = sessionmaker(bind=engine)
