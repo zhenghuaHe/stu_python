@@ -4,13 +4,10 @@
 
 
 import configparser
-import os
+
 
 def config_read():
-    '''
-    解析配置文件
-    '''
-
+    #解析配置文件
     # 读取
     config = configparser.ConfigParser()
     config.read('../conf/config_default.ini')
@@ -26,6 +23,11 @@ def config_read():
     print(db_host)
     print(db_passwd)
     print(db_name)
+    return
+
+
+
+
 
 
 

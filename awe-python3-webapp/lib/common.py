@@ -27,7 +27,13 @@ def handle_url_xxx(request):
 
 
 
+# @get('/')
+# def index(request):
+#     users = yield from User.findAll()
+#     return {
+#         '__template ': 'test.html'
+#         'users': users
+#     }
 
 
-_init()
 
