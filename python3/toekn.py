@@ -1,17 +1,15 @@
 import requests
 
 
-# def test_url():
-        # pass
 
-url = "http://api.t4.2012iot.com/api-python-wechat/alarm/alarm_list"
-requests_url  = requests.get(url)
-
-headers = {
-        "Authorization": "MTc2OF90b2tlbl8xNTM5ODQ3MDE0Mzc3LCwsMTUzOTg0NzAxNDM3Nw=="
+url = "http://wechat.v3.api.2012iot.com/api-python-wechat/alarm/wxAlarm"
+values = {
+        "evId": "101945507171782372",
+        "trap": "1",
+        "description": "222222222"
 }
 
-result = requests.get(url,headers=headers)
+result = requests.post(url,data=values)
 print(result)
 print(result.status_code,result.text)
 
