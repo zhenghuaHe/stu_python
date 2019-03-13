@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e6596d6-bfcb-460d-b743-154718b9337d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/class_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_多臺.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_多重繼承.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_權限.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_繼承.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_出行建议.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/try.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class.py" beforeDir="false" afterPath="$PROJECT_DIR$/class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_獲取對象信息.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_獲取對象信息.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,23 +54,23 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="15" />
-          <entry key="py" value="1867" />
+          <entry key="py" value="3364" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="15" />
-          <entry key="Python" value="1867" />
+          <entry key="Python" value="3364" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="8" />
+          <entry key="py" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="8" />
+          <entry key="Python" value="11" />
         </counts>
       </usages-collector>
     </session>
@@ -83,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/class_多重繼承.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="10" selection-end-column="8" />
               <folding>
                 <marker date="1552228454237" expanded="true" signature="82:87" ph="..." />
                 <marker date="1552228454237" expanded="true" signature="119:124" ph="..." />
@@ -98,24 +95,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class_多臺.py">
+        <entry file="file://$PROJECT_DIR$/class_獲取對象信息.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+            <state relative-caret-position="373">
+              <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class_出行建议.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
               <folding>
-                <marker date="1552226804643" expanded="true" signature="190:241" ph="..." />
+                <marker date="1552318771258" expanded="true" signature="70:75" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/class_權限.py">
+        <entry file="file://$PROJECT_DIR$/try.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="288">
+              <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
               <folding>
-                <marker date="1552211889373" expanded="true" signature="64:69" ph="..." />
+                <marker date="1552409201465" expanded="true" signature="65:70" ph="..." />
+                <marker date="1552409201465" expanded="true" signature="213:218" ph="..." />
+                <marker date="1552409201465" expanded="true" signature="395:400" ph="..." />
+                <marker date="1552409201465" expanded="true" signature="519:524" ph="..." />
               </folding>
             </state>
           </provider>
@@ -145,6 +154,9 @@
         <option value="$PROJECT_DIR$/class_繼承.py" />
         <option value="$PROJECT_DIR$/class_多重繼承.py" />
         <option value="$PROJECT_DIR$/class_多臺.py" />
+        <option value="$PROJECT_DIR$/class_獲取對象信息.py" />
+        <option value="$PROJECT_DIR$/class_出行建议.py" />
+        <option value="$PROJECT_DIR$/try.py" />
       </list>
     </option>
   </component>
@@ -178,6 +190,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -191,28 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.class_多重繼承">
-    <configuration name="class" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="stu" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.try">
     <configuration name="class_多重繼承" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="stu" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,7 +226,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="class_出行建议" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="stu" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,7 +238,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_權限.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_出行建议.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="class_獲取對象信息" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="stu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_獲取對象信息.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,7 +289,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class_jichengf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="stu" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,7 +301,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_繼承.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,19 +311,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.class" />
-      <item itemvalue="Python.class_2" />
-      <item itemvalue="Python.class_jichengf" />
       <item itemvalue="Python.class_duotai" />
       <item itemvalue="Python.class_多重繼承" />
+      <item itemvalue="Python.class_獲取對象信息" />
+      <item itemvalue="Python.class_出行建议" />
+      <item itemvalue="Python.try" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.try" />
+        <item itemvalue="Python.class_出行建议" />
+        <item itemvalue="Python.class_獲取對象信息" />
         <item itemvalue="Python.class_多重繼承" />
         <item itemvalue="Python.class_duotai" />
-        <item itemvalue="Python.class_jichengf" />
-        <item itemvalue="Python.class_2" />
-        <item itemvalue="Python.class" />
       </list>
     </recent_temporary>
   </component>
@@ -331,13 +344,13 @@
     <frame x="-1" y="0" width="1368" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19422151" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19422151" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39967898" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -413,21 +426,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class_多重繼承.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding>
-            <marker date="1552228454237" expanded="true" signature="82:87" ph="..." />
-            <marker date="1552228454237" expanded="true" signature="119:124" ph="..." />
-            <marker date="1552228454237" expanded="true" signature="249:272" ph="..." />
-            <marker date="1552228454237" expanded="true" signature="295:300" ph="..." />
-            <marker date="1552228454237" expanded="true" signature="335:340" ph="..." />
-            <marker date="1552228454237" expanded="true" signature="433:445" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/class_多臺.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -444,6 +442,51 @@
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <marker date="1552211889373" expanded="true" signature="64:69" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_多重繼承.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <marker date="1552228454237" expanded="true" signature="82:87" ph="..." />
+            <marker date="1552228454237" expanded="true" signature="119:124" ph="..." />
+            <marker date="1552228454237" expanded="true" signature="249:272" ph="..." />
+            <marker date="1552228454237" expanded="true" signature="295:300" ph="..." />
+            <marker date="1552228454237" expanded="true" signature="335:340" ph="..." />
+            <marker date="1552228454237" expanded="true" signature="433:445" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_獲取對象信息.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_出行建议.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          <folding>
+            <marker date="1552318771258" expanded="true" signature="70:75" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+          <folding>
+            <marker date="1552409201465" expanded="true" signature="65:70" ph="..." />
+            <marker date="1552409201465" expanded="true" signature="213:218" ph="..." />
+            <marker date="1552409201465" expanded="true" signature="395:400" ph="..." />
+            <marker date="1552409201465" expanded="true" signature="519:524" ph="..." />
           </folding>
         </state>
       </provider>
