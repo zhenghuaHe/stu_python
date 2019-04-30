@@ -1,17 +1,15 @@
-#coding=utf-8
+# -*- coding=utf-8 -*-
 
 import socket
 import psutil
 import json
 
-
-
-#创建链接
-#生成一个socket对象
+# 创建链接
+# 生成一个socket对象
 sk = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 host = socket.gethostname()
 port = 8888
-#请求连接服务端
+# 请求连接服务端
 sk.connect((host, port))
 
 
